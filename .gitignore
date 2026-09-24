@@ -1,0 +1,17 @@
+.DS_Store
+.claude/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+
+Machine_e6db14f9-d562-45cd-90e1-ab396592835e/
+*.zip
+*.docx
+
+artifacts/*
+!artifacts/example_model/
+!artifacts/example_model/**
