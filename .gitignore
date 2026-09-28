@@ -4,6 +4,7 @@ venv/
 .venv/
 __pycache__/
 *.py[cod]
+*.egg-info/
 .pytest_cache/
 .ipynb_checkpoints/
 *.log
@@ -12,6 +13,9 @@ Machine_e6db14f9-d562-45cd-90e1-ab396592835e/
 *.zip
 *.docx
 
+data/*
+!data/README.md
+
 artifacts/*
-!artifacts/example_model/
-!artifacts/example_model/**
+!artifacts/Stream_f0da779c-4b8f-419f-9a6a-6db2ffe13e03/
+!artifacts/Stream_f0da779c-4b8f-419f-9a6a-6db2ffe13e03/**
