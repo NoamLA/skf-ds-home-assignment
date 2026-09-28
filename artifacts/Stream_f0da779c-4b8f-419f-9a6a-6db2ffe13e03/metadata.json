@@ -1,0 +1,23 @@
+{
+  "data_end_datetime": "2023-09-30T23:00:00",
+  "data_start_datetime": "2023-01-01T00:00:00",
+  "diagnostics": {
+    "huber_scale": 0.8171263693835887,
+    "median_absolute_residual_c": 0.8091809636226799,
+    "residual_mad_c": 0.812572903915612,
+    "training_alarm_rate": 0.0
+  },
+  "measurement_count": 2531,
+  "model_parameters": {
+    "alarm_threshold_c": 1.0,
+    "confirmation_hours": 24,
+    "confirmation_readings": 3,
+    "huber_max_iter": 1000,
+    "minimum_observations": 6,
+    "rolling_hours": 72
+  },
+  "requested_end_datetime": "2023-10-01T00:00:00",
+  "requested_start_datetime": "2023-01-01T00:00:00",
+  "sensor_id": "Stream_f0da779c-4b8f-419f-9a6a-6db2ffe13e03",
+  "trained_at_utc": "2026-09-28T13:42:39.767427+00:00"
+}
