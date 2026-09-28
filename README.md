@@ -7,6 +7,7 @@ This repository contains the analysis, model, and executable training operation 
 - `notebooks/analysis_and_model_selection.ipynb` — data analysis and chronological model selection.
 - `src/skf_anomaly/` — data loading, model, training, and inference code.
 - `artifacts/Stream_f0da779c-4b8f-419f-9a6a-6db2ffe13e03/` — a fitted model with metadata and a training log.
+- `presentation/SKF_Model_Selection_Presentation.pptx` — slides summarizing the analysis and model selection.
 - `data/` — the default local data location; raw measurements are ignored by Git.
 
 The supplied Parquet data is excluded from Git.
